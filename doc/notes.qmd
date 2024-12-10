@@ -1,6 +1,8 @@
+SESSION 1: build dependencies - written in the script (Imports in the
+DESCRIPTION FILE) workflow dependencies - entirely in console (suggests
+in the DESCRIPTION FILE)
 
-SESSION 1:
-build dependencies - written in the script (Imports in the DESCRIPTION FILE)
-workflow dependencies - entirely in console (suggests in the DESCRIPTION FILE)
+if you want to change the Rprofile script: \> edit_r_profile()
 
-if you want to change the Rprofile script: > edit_r_profile()
+For tidyverse and tidymodels, add to depends instead, since this is a
+meta-package: \> use_package("tidyverse", "depends")
