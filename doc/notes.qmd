@@ -1,0 +1,6 @@
+
+SESSION 1:
+build dependencies - written in the script (Imports in the DESCRIPTION FILE)
+workflow dependencies - entirely in console (suggests in the DESCRIPTION FILE)
+
+if you want to change the Rprofile script: > edit_r_profile()
