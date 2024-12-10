@@ -1,16 +1,9 @@
-TODO: Add more to the title of your project here
-
-# AdvancedR3:
-
-TODO: Give a brief description of what your project is about
+# AdvancedR3: Reproducible research
 
 This project is a part of the AdvancedR3 course on reproducible
 research, hosted by the DDEA.
 
 # Brief description of folder and file contents
-
-TODO: As project evolves, add brief description of what is inside the
-data, doc and R folders.
 
 The following folders contain:
 
@@ -42,4 +35,3 @@ You'll need to have remotes installed for this to work.
 For more information on this folder and file workflow and setup, check
 out the [prodigenr](https://rostools.github.io/prodigenr) online
 documentation.
-
