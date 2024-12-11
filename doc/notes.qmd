@@ -6,3 +6,6 @@ if you want to change the Rprofile script: \> edit_r_profile()
 
 For tidyverse and tidymodels, add to depends instead, since this is a
 meta-package: \> use_package("tidyverse", "depends")
+
+DAY 2 Tells target to keep track of changes tar_target( name = file,
+command = "data/lipidomics.csv", format = "file" )
